@@ -17,7 +17,8 @@ Praveen Kumar Manoharan
 
 完了したプロジェクト
 
-感情分析Androidアプリ: 音声をテキストに変換し、RベースのShiny APIを使用して感情分析を行い、リアルタイムで感情を可視化するAndroidアプリを開発しました。
+感情分析Androidアプリ: テキストを感情のヒストグラムに変換
+、RベースのShiny APIを使用して感情分析を行い、リアルタイムで感情を可視化するAndroidアプリを開発しました。
 
 
 進行中のプロジェクト
@@ -50,7 +51,7 @@ Programming: R ,Python (for Data Science)
 
 Finished Projects
 
-Sentiment Analysis Android App: Developed an Android application that converts speech to text, performs sentiment analysis using an R-based Shiny API, and visualizes emotions dynamically.
+Sentiment Analysis Android App: Developed an Android application that converts text to histogram of sentiments, performs sentiment analysis using an R-based Shiny API, and visualizes emotions dynamically.
 
 Ongoing Projects
 
